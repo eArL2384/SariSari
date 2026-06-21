@@ -1,0 +1,225 @@
+Product,Price,Category
+Marlboro Ice Blast,10,Cigarette
+Marlboro Red,10,Cigarette
+Winston,11,Cigarette
+Camel,8,Cigarette
+Jackpot,8,Cigarette
+Chesterfield Green,8,Cigarette
+Chesterfield Red,8,Cigarette
+Mighty,9,Cigarette
+Youngstown Green,30,Canned Foods
+Youngstown Red,31,Canned Foods
+Mega Green,30,Canned Foods
+Mega Red,31,Canned Foods
+BlueBay Tuna/Flavored,40,Canned Foods
+BlueBay Spicy,42,Canned Foods
+Bluebay Corned Tuna,37,Canned Foods
+Century Spicy/Plain,46,Canned Foods
+Mackerel,35,Canned Foods
+Agentina Beefloaf,30,Canned Foods
+Fiesta Small,32,Canned Foods
+Fiesta Big,45,Canned Foods
+WoW Ulam,28,Canned Foods
+Argentina CornedBeef Big,67,Canned Foods
+Argentina CornedBeef Medium,48,Canned Foods
+Argentina CornedBeef Small,40,Canned Foods
+Youngstown CornedBeef,42,Canned Foods
+GoldCup CornedBeef,32,Canned Foods
+CloseUp Toothpaste,11,Toothpaste
+Colgate Toothpaste,12,Toothpaste
+Happy Toothpaste,9,Toothpaste
+ToothBrush,20,Hygene
+Dorco Blade,5,Hygene
+Gillette Yellow,30,Hygene
+BirchTree,20,Milk/Choco
+Swak Choco,14,Milk/Choco
+Swak Milk,13,Milk/Choco
+Nescafe Original Coffee Double,17,Coffee
+Nescafe Creamy White Double,17,Coffee
+Kopiko Blanca Double,16,Coffee
+Kopiko Brown Double,16,Coffee
+Champion Double,20,Coffee
+Greataste Double,16,Coffee
+Tabliya,12,Milk/Choco
+Milo ,11,Milk/Choco
+CoffeeMate,3,Milk/Choco
+Coffee Stick,4,Coffee
+Nescafe Original ,10,Coffee
+Nescafe Creamy White Single,10,Coffee
+Kopiko Blanca Single,10,Coffee
+Kopiko Black Single,10,Coffee
+Kopiko Brown Single,10,Coffee
+Energen Chocolate,11,Coffee
+Energen Vanilla,11,Coffee
+Surf Powder,9,Soap Bar Powder
+Wings Powder,8,Soap Bar Powder
+Tide/Ariel Powder,16,Soap Bar Powder
+Del,7,Soap Bar Powder
+Surf ,8,Soap Bar Powder
+Downy,8,Soap Bar Powder
+Surf Bar,9,Soap Bar Powder
+Speed White/Blue,8,Soap Bar Powder
+Champion ,8,Soap Bar Powder
+Pride,8,Soap Bar Powder
+Zonrox Big,30,Chemicals
+Zonrox Medium,25,Chemicals
+Zonrox Small,13,Chemicals
+Zonrox Colorsafe Small,18,Chemicals
+Zonrox Colorsafe Medium,,Chemicals
+Safeguard ,24,Soap Hygene
+Silka Green,24,Soap Hygene
+Silka Orange,22,Soap Hygene
+Bioderm,22,Soap Hygene
+Sheild,20,Soap Hygene
+Cotton,10,Hygene
+Smart,30,Diswashing
+Joy Big,15,Diswashing
+Joy Small,8,Diswashing
+Posporo,4,Utility
+Sinag Red,7,Utility
+Sinag Green,2,Utility
+LionTiger,6,Utility
+Inulang,6,Utility
+Dagum Big,5,Utility
+Dagum Small,2,Utility
+Miswa,6,Noodle
+Odong,3,Noodle
+LuckyMe Noodles,12,Noodle
+LuckyMe Spicy,14,Noodle
+LuckyMe Pancit Canton,15,Noodle
+Garlic,1,Spices
+Sibuyas,5,Spices
+Magic Sarap,6,Spices
+Ginisa Mix,5,Spices
+Pork/Beef/Chicken/Shrimp Cubes,10,Spices
+Oyster Sauce,10,Spices
+Bitsin,5,Spices
+Asin,1,Spices
+Souy Repacked,1,Kitchen Items
+Toyo Repacked,1,Kitchen Items
+Asyete Repacked,20,Kitchen Items
+Toyo Pouch Big,14,Kitchen Items
+Toyo Pouch Small,11,Kitchen Items
+Souy Pouch Big,11,Kitchen Items
+Souy Puch Small,9,Kitchen Items
+Asyete 1 lapad,44,Kitchen Items
+Asyete 1/2 Lapad,22,Kitchen Items
+Asyete 1/4 lapad,12,Kitchen Items
+Crispy Fry Regular,22,Kitchen Items
+Crispy Fry Spicy,22,Kitchen Items
+Tasty Boy Original,16,Kitchen Items
+Tasty Boy Spicy,16,Kitchen Items
+Añiel ,1,Chemicals
+Chlorine,1,Chemicals
+Tawas,1,Chemicals
+Recado,1,Spices
+Paminta,1,Spices
+Fudgee Bar,10,Biscuits
+Nissin Wafer,3,Biscuits
+Combee,8,Biscuits
+Presto ,8,Biscuits
+Hansel,8,Biscuits
+Rebisco Choco,8,Biscuits
+Bravo,8,Biscuits
+Hansel Choco,8,Biscuits
+Haney,3,Candies
+Sugar Repacked,2,Kitchen Items
+Sugar 1/4,20,Kitchen Items
+Choey Tofey,2,Candies
+Curly Tops,2,Candies
+Lolipop,2,Candies
+Mentos 4pcs,5,Candies
+Snowbear 4pcs,5,Candies
+Maxx 4pcs,5,Candies
+Fres 4pcs,5,Candies
+Dynamite 4pcs,5,Candies
+XO 4pcs,5,Candies
+Vfresh 4pcs,5,Candies
+Fruitos ,5,Candies
+Rebisco Cracker,8,Biscuits
+Cream-O,10,Biscuits
+Rebisco Butter,8,Biscuits
+Mang Juan Big Brown/Green,30,Chips
+Mang Juan Small Brown/Green,10,Chips
+Mang Juan Chicken Skin Big,30,Chips
+Mang Juan Chicken Skin Small,10,Chips
+Mr Chips Big,30,Chips
+Mr Chips Small,10,Chips
+Tempura Big,30,Chips
+Tempura Small,10,Chips
+Snacko Big,23,Chips
+Snacko Small,12,Chips
+Hi-ho Big,20,Chips
+Hi-ho Small,10,Chips
+Dingdong,30,Chips
+Boy Bawang,30,Chips
+Muncher Big,18,Chips
+Muncher Small 4pcs,5,Chips
+Chippy Big,30,Chips
+Chippy Small,10,Chips
+Nova,21,Chips
+Piattos,21,Chips
+Xsakto,10,Chips
+Sotanghon,10,Chips
+Mani ,5,Chips
+Loaded,10,Chips
+Jumpee,10,Chips
+Calcheese,15,Chips
+Pillows Big,15,Chips
+Pillows Small,10,Chips
+Chocoknots,10,Chips
+Pretzels,10,Chips
+Cracklings,10,Chips
+Richee,10,Chips
+CheeseOnChips,10,Chips
+Funky,10,Chips
+Oishy,10,Chips
+Cheeseit,10,Chips
+BogeyMan,10,Chips
+Crispy Patata,10,Chips
+Pritong Manok Big,20,Chips
+Pritong Manok Small,10,Chips
+Moby,10,Chips
+Fish Crackers,10,Chips
+Magic Chips,10,Chips
+EZ Lion,12,Chips
+Tissue,14,Hygene
+Charmee with Wings,7,Sanitary Napkins
+Whisper w/ Wings,9,Sanitary Napkins
+Modess w/ Wings,7,Sanitary Napkins
+Modess non Wings,7,Sanitary Napkins
+Sisters Overnight,7,Sanitary Napkins
+Sisters w/ Wings,7,Sanitary Napkins
+Sisters non Wings,7,Sanitary Napkins
+Carefree Pantyliner,3,Sanitary Napkins
+Sunsilk,8,Shampoo Conditioner
+Dove,8,Shampoo Conditioner
+Head and Shoulders,9,Shampoo Conditioner
+Palmolive,8,Shampoo Conditioner
+Panetene,8,Shampoo Conditioner
+Creamsilk,9,Shampoo Conditioner
+Keratine,9,Shampoo Conditioner
+Rexona,10,Hygene
+GSM Blue/Mojito,152,Beverage Alcohol
+Tanduay Longneck,145,Beverage Alcohol
+Tanduay Light Lapad,80,Beverage Alcohol
+GSM Bilog,85,Beverage Alcohol
+Emperador Light,160,Beverage Alcohol
+SanMiguel Litro,130,Beverage Alcohol
+Redhorse Litro,130,Beverage Alcohol
+Rehorse Stallon,70,Beverage Alcohol
+Coke/Sprite/Royal Litro,45,SoftDrinks
+Sting,20,SoftDrinks
+Coke/Sprite/Royal 8oz,14,SoftDrinks
+Mountain Dew,20,SoftDrinks
+Zesto,11,Juice
+Minute Maid,12,Juice
+C2,18,Juice
+Yakult,14,Juice
+Ice,4,Juice
+Mineral Water,20,Juice
+Efficacent Oil,37,Utility
+Cuticle Remover,12,Utility
+Acetone,10,Utility
+Tang Flavored Juices,24,Powdered Juice
+Neastea Iced Tea,25,Powdered Juice
