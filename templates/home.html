@@ -38,14 +38,36 @@
     </div>
 
     <!-- Cart -->
-    <div class="card p-3 mb-3">
+    <div class="card p-3 mb-3 shadow-sm">
       <h5>Cart</h5>
-      {% for i in cart %}
-        <p>{{i['product']}} x{{i['qty']}} = ₱{{i['price']*i['qty']}}
-          <a href="{{ url_for('remove_item', index=loop.index0) }}" class="text-danger">[Remove]</a>
-        </p>
-      {% endfor %}
-      <p><b>Total: ₱{{total}}</b></p>
+      {% if cart %}
+      <table class="table table-striped">
+        <thead>
+          <tr>
+            <th>Product</th>
+            <th>Qty</th>
+            <th>Subtotal</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for i in cart %}
+          <tr>
+            <td>{{i['product']}}</td>
+            <td>{{i['qty']}}</td>
+            <td>₱{{i['price']*i['qty']}}</td>
+            <td>
+              <a href="{{ url_for('remove_item', index=loop.index0) }}" class="btn btn-sm btn-danger">Remove</a>
+            </td>
+          </tr>
+          {% endfor %}
+        </tbody>
+      </table>
+      {% else %}
+      <p class="text-muted">Cart is empty</p>
+      {% endif %}
+
+      <p class="fw-bold">Total: ₱{{total}}</p>
 
       <!-- Amount Paid -->
       <form method="post" class="mt-2">
@@ -55,13 +77,11 @@
       </form>
 
       {% if change is not none %}
-        <p class="mt-2"><b>Change:</b>
-          {% if change >= 0 %}
-            <span class="text-success">₱{{change}}</span>
-          {% else %}
-            <span class="text-danger">Not enough payment (₱{{change}})</span>
-          {% endif %}
-        </p>
+        {% if change >= 0 %}
+          <div class="alert alert-success mt-2">Change: ₱{{change}}</div>
+        {% else %}
+          <div class="alert alert-danger mt-2">Not enough payment (₱{{change}})</div>
+        {% endif %}
       {% endif %}
 
       <form action="{{ url_for('clear_cart') }}" method="post" class="mt-2">
