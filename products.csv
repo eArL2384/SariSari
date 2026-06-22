@@ -95,9 +95,13 @@ Pork/Beef/Chicken/Shrimp Cubes,10,Spices
 Oyster Sauce,10,Spices
 Bitsin,5,Spices
 Asin,1,Spices
+Sinigang sa Gabi,10,Spices
+Sinigang na Isda,10,Spices
+Sinigang Original,10,Spices
 Souy Repacked,1,Kitchen Items
 Toyo Repacked,1,Kitchen Items
-Asyete Repacked,20,Kitchen Items
+Asyete Repacked Small,5,Kitchen Items
+Asyete Repacked Big,10,Kitchen Items
 Toyo Pouch Big,14,Kitchen Items
 Toyo Pouch Small,11,Kitchen Items
 Souy Pouch Big,11,Kitchen Items
@@ -223,3 +227,7 @@ Cuticle Remover,12,Utility
 Acetone,10,Utility
 Tang Flavored Juices,24,Powdered Juice
 Neastea Iced Tea,25,Powdered Juice
+Ketchup Pouch,16,Condoments
+Ketchup Sachet,6,Condoments
+Mang Tomas Pouch,16,Condoments
+Mang Tomas Sachet,12,Condoments
